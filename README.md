@@ -12,8 +12,8 @@
 In short about me:
 - I'm studing at [Bauman Moscow State University](https://bmstu.ru)
 - I'm learning Backend on Java now
+- I'm learning Androing development now
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
-
 
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefKot&theme=algolia&count_private=true&hide=html&layout=compact" />  
 
