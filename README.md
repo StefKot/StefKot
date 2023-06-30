@@ -11,7 +11,6 @@
       
 In short about me:
 - I'm studing at [Bauman Moscow State University](https://bmstu.ru)
-- I graduated many courses of Programming sphere
 - I'm learning Backend on Java now
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
       
