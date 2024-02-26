@@ -15,12 +15,13 @@ In short about me:
 - I'm learning Androing development now
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
 
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefKot&theme=algolia&count_private=true&hide=html&layout=compact" />  
+<img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefKot&theme=algolia&count_private=true&hide=html&layout=compact" />  
 
 <div>    
 <img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width = "80px" height = "40px">
 
 <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img src = "https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width = "40px" height = "40px"></a>  <a target="_blank" rel="noopener noreferrer" href="https://developer.android.com/studio"><img src = "https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width = "40px" height = "40px"></a> <a target="_blank" rel="noopener noreferrer" href="https://www.jetbrains.com/ru-ru/"><img src="https://img.icons8.com/color/40/000000/intellij-idea.png"/></a>  
+
 <h2>Языки</h2>
 <img src = "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width = "40px" height = "40px"> <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
 <h2>Разное</h2>
