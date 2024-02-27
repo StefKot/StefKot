@@ -15,7 +15,7 @@ In short about me:
 - I'm learning Androing development now
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
 
-<img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefKot&theme=algolia&count_private=true&hide=html&layout=compact" />  
+<img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefKot&theme=algolia&count_private=true&hide=html&layout=compact" />  
 
 <div>    
 <img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width = "80px" height = "40px">
