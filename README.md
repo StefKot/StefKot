@@ -10,9 +10,9 @@
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=StefKot&theme=algolia&show_icons=true&hide_border=true&count_private=true&layout=compact" />  
       
 In short about me:
-- I'm studing at [Bauman Moscow State University](https://bmstu.ru)
-- I'm learning Backend on Java now
-- I'm learning Androing development now
+- [Bauman Moscow State University](https://bmstu.ru) student 
+- Learning Backend on Java 
+- Learning Androing development 
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
 
 <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefKot&theme=algolia&count_private=true&hide=html&layout=compact" />  
